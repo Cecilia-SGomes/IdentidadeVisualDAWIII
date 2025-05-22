@@ -1,4 +1,4 @@
-# 🖋️ Guia Tipográfico e Hierarquia Visual do Projeto de DAWIII
+# 🖋️ Tipografia - Sistema Marketplace
 
 ## 🔤 Fontes Utilizadas
 

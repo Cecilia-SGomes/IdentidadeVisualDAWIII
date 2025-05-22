@@ -1,4 +1,4 @@
-# Icones para o projeto de DAWIII - Sistema Marketplace
+# Icones - Sistema Marketplace
 
 ## 📦 Biblioteca de Ícones Recomendada
 
@@ -15,7 +15,7 @@
 
 ---
 
-## 🧭 Exemplos de Ícones por Tela e Função que podem ser utilizados com base da definição do Marketplace.
+## 🧭 Exemplos de Ícones por Tela e Função que podem ser utilizados com base na definição do Marketplace.
 
 ### 🔐 **Login / Cadastro**
 
