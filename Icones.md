@@ -96,4 +96,4 @@
 
 ---
 
-### Observação: Estas são apenas recomendações cbaseadas nos requisitos do Sistema Marketplace O Lucide tem várias opções disponíveis.
+### Observação: Estas são apenas recomendações baseadas nos requisitos do Sistema Marketplace. O Lucide tem várias opções disponíveis.
