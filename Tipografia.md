@@ -15,6 +15,8 @@
 
   ![Tipograifa](ExTipografia.png)
 
+  - **[tipografia figma ]([https://lucide.dev/](https://www.figma.com/design/iR7rjMoUGdavGN4IscqeqI/Tipografia?node-id=0-1&p=f&t=cEkArlPzsSxPsGw2-0))**
+
 ---
 
 ## 📐 Hierarquia de Tipografia
